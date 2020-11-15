@@ -1,0 +1,10 @@
+﻿  Draw.cpp
+C:\Users\junha\source\repos\Speedye_App\Speedye_App\Draw.cpp(81,35): warning C4244: 'argumento': conversión de 'unsigned int' a 'Gdiplus::REAL'; posible pérdida de datos
+C:\Users\junha\source\repos\Speedye_App\Speedye_App\Draw.cpp(86,23): warning C4244: '=': conversión de 'unsigned int' a 'Gdiplus::REAL'; posible pérdida de datos
+C:\Users\junha\source\repos\Speedye_App\Speedye_App\Draw.cpp(94,30): warning C4244: 'argumento': conversión de 'int' a 'Gdiplus::REAL'; posible pérdida de datos
+C:\Users\junha\source\repos\Speedye_App\Speedye_App\Draw.cpp(94,24): warning C4244: 'argumento': conversión de 'int' a 'Gdiplus::REAL'; posible pérdida de datos
+C:\Users\junha\source\repos\Speedye_App\Speedye_App\Draw.cpp(113,17): warning C4244: '=': conversión de 'int' a 'Gdiplus::REAL'; posible pérdida de datos
+C:\Users\junha\source\repos\Speedye_App\Speedye_App\Draw.cpp(116,17): warning C4244: '=': conversión de 'int' a 'Gdiplus::REAL'; posible pérdida de datos
+C:\Users\junha\source\repos\Speedye_App\Speedye_App\Draw.cpp(121,17): warning C4244: '=': conversión de 'int' a 'Gdiplus::REAL'; posible pérdida de datos
+C:\Users\junha\source\repos\Speedye_App\Speedye_App\Draw.cpp(125,17): warning C4244: '=': conversión de 'int' a 'Gdiplus::REAL'; posible pérdida de datos
+  Speedye_App.vcxproj -> C:\Users\junha\source\repos\Speedye_App\Debug\Speedye_App.exe
